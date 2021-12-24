@@ -1,0 +1,25 @@
+body {
+  background-color: #405C72;
+  color: #FFFFFF;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+.pageContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.timeContainer {
+  width: 600px;
+}
+
+.timeCard {
+  border: #FFFFFF 3px solid;
+  border-radius: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 20px;
+}
